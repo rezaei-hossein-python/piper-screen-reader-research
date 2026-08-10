@@ -1,0 +1,14 @@
+{
+  "original_lessac": {
+    "path": "C:\\projects\\nvda piper addon\\.phase2h-assets\\en_US-lessac-low\\en_US-lessac-low.onnx",
+    "sha256": "f7d01dde371555732c4c314111ac79672b1a5ce2fc19266ab42178fd8df7f375",
+    "bytes": 63201294
+  },
+  "rewritten_lessac_duration_override": {
+    "path": "models/generated/lessac-duration-override.onnx",
+    "sha256": "a5697871afeff4fdfa5e8f515a4241a63843512a51e588bccaeb9cbd5f16e480",
+    "generated_by": "experiments/onnx-duration-override/rewrite_graph.py",
+    "selector": "Where(duration_override_enabled, duration_override, /Ceil_output_0)",
+    "generated_model_is_not_for_production": true
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "rewritten_outputs": [
+    [
+      1,
+      1,
+      1,
+      3328
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      1,
+      1,
+      5
+    ]
+  ],
+  "predicted_duration": [
+    2.0,
+    3.0,
+    2.0,
+    2.0,
+    4.0
+  ],
+  "proof1_disabled_byte_identical": true,
+  "proof1_disabled_max_abs": 0.0,
+  "proof2_self_duration_byte_identical": true,
+  "proof2_self_duration_max_abs": 0.0,
+  "disabled_pcm_samples": 3328,
+  "self_override_pcm_samples": 3328,
+  "single_token_pcm_samples": 3072,
+  "multi_token_pcm_samples": 2816
+}

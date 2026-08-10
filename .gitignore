@@ -3,6 +3,8 @@ references/
 environments/
 models/
 results/raw/
+results/phase2ae/raw/
+models/generated/
 listening/
 *.onnx
 *.onnx.json
