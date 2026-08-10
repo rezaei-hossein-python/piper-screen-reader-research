@@ -4,6 +4,8 @@ environments/
 models/
 results/raw/
 results/phase2ae/raw/
+results/phase2af-*.json
+results/phase2af/raw/
 models/generated/
 listening/
 *.onnx

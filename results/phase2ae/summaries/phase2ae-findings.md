@@ -96,6 +96,16 @@ opaque three-way listening set (original/global/selective) was generated under
 `listening/blind-test`; its answer key is outside the user-facing directory
 under the ignored Phase 2AE raw results.
 
+### Phase 2AF manual correction
+
+The completed listening set was judged very weak overall; trial 011 A was
+understandable but highly questionable. Every trial included an original Piper
+sample, but the generator omitted Piper's `normalize_audio=True` conversion and
+therefore did not faithfully represent accepted Phase 2S output. The
+conservative policy is rejected as a product candidate. The graph override
+mechanism remains proven; quality attribution is classified as Phase 2AF
+Result A until a correctly normalized baseline is checked.
+
 ## Decision
 
 The graph-control mechanism is proven. A safe per-token duration override can
