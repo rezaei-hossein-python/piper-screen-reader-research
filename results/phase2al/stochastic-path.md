@@ -1,0 +1,3 @@
+# Phase 2AL stochastic path
+
+The locked ONNX graph contains two internal `RandomNormalLike` nodes: `/dp/RandomNormalLike` in the duration/noise path and `/RandomNormalLike` in the decoder latent-noise path. The only graph inputs are `input`, `input_lengths`, `scales`, `duration_override`, and `duration_override_enabled`; no random tensor or seed input is exposed. A deterministic seed alone is not controllable through this ONNX interface. Common-random-number pairing was therefore not feasible without changing graph semantics. Phase 2AL uses five paired realizations per item, randomizes Original-first versus A5-first order, and records duration/RMS/spectral-centroid variation.
