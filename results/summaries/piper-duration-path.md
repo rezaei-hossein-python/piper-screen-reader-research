@@ -46,6 +46,13 @@ path). It is not an input and is not externally writable. The existing upstream
 output, which proves duration extraction, but it cannot replace the tensor
 before `/CumSum`.
 
+An ephemeral in-memory graph-output proof ran the locked model through CPU
+ONNX Runtime with a five-token content-free probe. It returned a valid
+waveform and a positive duration vector (one observed vector was
+`[1, 4, 1, 1, 8]`). This confirms extraction is real, not merely a node-name
+inspection. The probe model was written only to the system temporary folder
+and deleted immediately; no modified model was retained.
+
 ## Decision boundary
 
 Predicted per-phoneme durations are internally present and extractable only by
