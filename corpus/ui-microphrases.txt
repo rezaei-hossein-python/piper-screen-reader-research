@@ -1,0 +1,11 @@
+button
+edit
+checkbox
+checked
+selected
+unavailable
+menu
+dialog
+settings
+save
+cancel

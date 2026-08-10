@@ -1,0 +1,14 @@
+upstream/
+references/
+environments/
+models/
+results/raw/
+listening/
+*.onnx
+*.onnx.json
+*.wav
+*.pcm
+*.npy
+*.npz
+__pycache__/
+.pytest_cache/

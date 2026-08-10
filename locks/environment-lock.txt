@@ -1,0 +1,9 @@
+# Phase 2AD graph-inspection environment (CPU-only)
+Python==3.12.10 (64-bit)
+onnx==1.18.0
+onnxruntime==1.28.0
+numpy==2.5.2
+protobuf==7.35.1
+typing_extensions==4.16.0
+flatbuffers==25.12.19
+packaging==26.3

@@ -1,0 +1,14 @@
+{
+  "piper": {
+    "repository": "https://github.com/OHF-Voice/piper1-gpl",
+    "tag": "v1.5.0",
+    "commit": "e2a4b1fa1c502bbb97e729a5b34a6af565007843",
+    "license": "GPL-3.0-or-later (see upstream/COPYING)"
+  },
+  "vits_reference": {
+    "repository": "https://github.com/jaywalnut310/vits",
+    "commit": "2e561ba58618d021b5b8323d3765880f7e0ecfdb",
+    "license": "MIT (see references/vits/LICENSE)"
+  },
+  "upstream_checkouts_are_reference_only": true
+}

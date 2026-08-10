@@ -1,0 +1,13 @@
+space
+comma
+period
+colon
+semicolon
+question mark
+exclamation mark
+dash
+underscore
+slash
+backslash
+left parenthesis
+right parenthesis

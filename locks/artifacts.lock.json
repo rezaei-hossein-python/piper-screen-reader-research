@@ -1,0 +1,15 @@
+{
+  "lessac_model": {
+    "source": "C:\\projects\\nvda piper addon\\.phase2h-assets\\en_US-lessac-low\\en_US-lessac-low.onnx",
+    "sha256": "f7d01dde371555732c4c314111ac79672b1a5ce2fc19266ab42178fd8df7f375",
+    "bytes": 63201294,
+    "role": "existing Phase 2H Piper voice; not copied or modified",
+    "license_status": "follow existing Piper voice provenance; no redistribution decision"
+  },
+  "lessac_config": {
+    "source": "C:\\projects\\nvda piper addon\\.phase2h-assets\\en_US-lessac-low\\en_US-lessac-low.onnx.json",
+    "sha256": "45754dfdebb3b8661c3fc564713772deec6e064feeb5b4e9594857dc7305193a",
+    "bytes": 4882,
+    "role": "matching model metadata"
+  }
+}
