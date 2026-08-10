@@ -22,6 +22,10 @@ def norm(a):
     return np.clip(x / peak if peak >= 1e-8 else x, -1, 1)
 def metric(a, sr=16000):
     x = norm(a); return {"samples": int(x.size), "duration_ms": x.size*1000/sr, "finite": bool(np.isfinite(x).all()), "clipped": bool(np.any(np.abs(x)>1)), "peak": float(np.max(np.abs(x))) if x.size else 0, "sha256": hashlib.sha256(x.tobytes()).hexdigest()}
+def energy_edges(a, sr=16000):
+    x=np.abs(norm(a)); threshold=max(0.01,float(x.max())*0.01) if x.size else 0.01; active=np.flatnonzero(x>=threshold)
+    if not active.size: return {"leading_low_energy_ms":float(x.size*1000/sr),"trailing_low_energy_ms":0.0}
+    return {"leading_low_energy_ms":float(active[0]*1000/sr),"trailing_low_energy_ms":float((x.size-1-active[-1])*1000/sr)}
 def wav(path, a):
     with wave.open(str(path), "wb") as f:
         f.setnchannels(1); f.setsampwidth(2); f.setframerate(16000); f.writeframes((norm(a)*32767).round().astype("<i2").tobytes())
@@ -45,7 +49,8 @@ def main():
         for policy,families in POLICY_FAMILIES.items():
             plan,changed,fired=apply_families(tokens,families); ov=np.asarray(plan,np.float32).reshape(1,1,-1); validate_override(ov,pred.reshape(1,1,-1)); q0=req(ids,ov,True) if policy!="a0" else base; audio=sess.run(None,q0)[0] if policy!="a0" else base_audio; mm=metric(audio); removed=int(sum(pred)-sum(plan));
             if not mm["finite"] or mm["clipped"]: warnings.append(f"{item}/{policy}: PCM")
-            r["policies"][policy]={"durations":plan,"changed_indices":changed,"fired":fired,"frames_removed":removed,"milliseconds_saved":removed*HOP/16,"edit_frame_savings":{k:len(v)*HOP/16 for k,v in fired.items()},**mm}
+            speech_frames=sum(t.frames for t in tokens if classify_token(t.symbol) not in {"padding","boundary/silence","punctuation/boundary","stress/control marker"})
+            r["policies"][policy]={"durations":plan,"changed_indices":changed,"fired":fired,"fired_frame_counts":{k:len(v) for k,v in fired.items()},"frames_removed":removed,"milliseconds_saved":removed*HOP/16,"edit_frame_savings":{k:len(v)*HOP/16 for k,v in fired.items()},"speech_bearing_frames_estimate":speech_frames,**mm,**energy_edges(audio)}
         rows.append(r)
 
     # Y is a baseline diagnosis, not a policy-scoring item.
