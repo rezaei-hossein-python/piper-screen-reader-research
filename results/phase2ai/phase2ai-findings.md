@@ -17,3 +17,26 @@ V1 is exactly Phase 2AH P1. V2 adds only audited PAD/BOS/EOS occupancy. V3 adds 
 All consonants, unknown/other speech-bearing tokens, stress, length and diacritic controls remain unchanged. No global scalar or PCM truncation is used.
 
 Automatic validation: PASS (378 renders). Warm `button` inference: original median 25.7 ms; V6 median 22.4 ms.
+
+## Decoded manual listening result
+
+The user reported Trial 3 as `NONE`; no preference was inferred. Trial 3 was
+the utterance `Y`, and all three variants—including Original—were unacceptable.
+
+| Trial | Item | User result | Decoded result |
+|---:|---|---|---|
+| 1 | S | C | Original |
+| 2 | U | B | V1 |
+| 3 | Y | NONE | Item-level failure; Original, V1 and V6 all unacceptable |
+| 4 | W | A | V1 |
+| 5 | 0 | C | Original |
+| 6 | exclamation mark | A | V6 |
+| 7 | expanded | A | V6 |
+| 8 | unavailable | C | V1 |
+
+Among the seven non-failed trials, preference counts were Original 2, V1 3,
+and V6 2. V6 therefore fails the Phase 2AI perceptual gate: it was the
+preferred policy on two trials, but was also unacceptable on the failed `Y`
+item. This does not establish that V6 caused the `Y` failure, because Original
+and V1 failed on the same item. V6 remains an automatically valid experimental
+policy, not a validated or production candidate.
