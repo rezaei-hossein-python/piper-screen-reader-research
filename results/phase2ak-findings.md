@@ -32,3 +32,48 @@ The fixed blind gate contains 16 trials and 32 WAVs: S, U, W, A, K, M, R, 0,
 5, exclamation mark, comma, expanded, unavailable, button, heading, and
 dialog. Each trial has opaque A/B assignment of Original and A5. The answer
 key is private and must not be decoded until the user returns the scoring sheet.
+
+## Decoded Phase 2AK manual result
+
+The user supplied valid preferences for 14 trials and rejected two trials as
+unacceptable for both variants. The private key decoded as follows:
+
+| Trial | Item | A | B | Selected result |
+|---:|---|---|---|---|
+| 01 | S | A5 | Original | A5 |
+| 02 | U | A5 | Original | Original |
+| 03 | W | Original | A5 | Original |
+| 04 | A | A5 | Original | REJECT — both unacceptable |
+| 05 | K | Original | A5 | Original |
+| 06 | M | Original | A5 | Original |
+| 07 | R | A5 | Original | A5 |
+| 08 | 0 | Original | A5 | Original |
+| 09 | 5 | A5 | Original | A5 |
+| 10 | exclamation mark | A5 | Original | REJECT — both unacceptable |
+| 11 | comma | Original | A5 | Original |
+| 12 | expanded | Original | A5 | Original |
+| 13 | unavailable | A5 | Original | Original |
+| 14 | button | A5 | Original | Original |
+| 15 | heading | A5 | Original | Original |
+| 16 | dialog | Original | A5 | A5 |
+
+Among the 14 valid trials, Original was preferred 10 times and A5 four times.
+Trials 04 (`A`) and 10 (`exclamation mark`) are separate baseline/item
+failures: Original was also unacceptable, so neither rejection is attributed
+to A5. They may reflect Lessac pronunciation, frontend/corpus behavior, or
+stochastic generation variation and require separate diagnosis.
+
+Overlap with Phase 2AJ was mixed: S remained A5; U and W changed from A5 to
+Original; 0 remained Original; exclamation mark changed from A5 preference to
+shared rejection; expanded changed from A5 preference to Original; unavailable
+changed from A5 preference to Original; and button changed from A5 preference
+to Original. This is not a stable quality advantage for A5.
+
+## Decision
+
+Outcome **C**: A5 fails as a general interactive policy. It retains a material
+automatic advantage—characters 520→392 ms median and 800→672 ms P95; digits
+624→480 ms median; punctuation 592→496 ms; UI 576→456 ms—but A5 was preferred
+on only 28.6% of valid trials, far below the clear-majority acceptance gate.
+No systematic A5 quality advantage is demonstrated. A5 must not advance to
+isolated NVDA testing; retain it as a research artifact only.
