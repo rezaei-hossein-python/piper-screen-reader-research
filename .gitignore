@@ -6,6 +6,8 @@ results/raw/
 results/phase2ae/raw/
 results/phase2af-*.json
 results/phase2af/raw/
+results/phase2ag/
+results/phase2ag-DO-NOT-OPEN-*
 models/generated/
 listening/
 *.onnx
