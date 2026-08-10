@@ -1,0 +1,1 @@
+[CmdletBinding()]param();$root=Split-Path -Parent $PSScriptRoot;$p=Join-Path $root 'listening\phase2ak';if(!(Test-Path -LiteralPath $p)){throw 'Run run-phase2ak.ps1 first'};Start-Process explorer.exe -ArgumentList $p

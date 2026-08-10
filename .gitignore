@@ -12,6 +12,7 @@ results/phase2ah/
 results/phase2ah-DO-NOT-OPEN-*
 results/phase2ai-DO-NOT-OPEN-*
 results/phase2aj-DO-NOT-OPEN-*
+results/phase2ak-DO-NOT-OPEN-*
 models/generated/
 listening/
 *.onnx

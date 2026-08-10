@@ -1,0 +1,4655 @@
+{
+  "settings": {
+    "noise_scale": 0.667,
+    "length_scale": 1.0,
+    "noise_w": 0.8,
+    "normalize_audio": true,
+    "volume": 1.0,
+    "sample_rate": 16000
+  },
+  "corpus": {
+    "characters": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F",
+      "G",
+      "J",
+      "K",
+      "M",
+      "P",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Z"
+    ],
+    "digits": [
+      "0",
+      "1",
+      "2",
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "punctuation": [
+      "comma",
+      "period",
+      "question mark",
+      "exclamation mark",
+      "colon"
+    ],
+    "ui": [
+      "button",
+      "selected",
+      "checked",
+      "expanded",
+      "unavailable",
+      "edit",
+      "heading",
+      "menu"
+    ],
+    "count": 38
+  },
+  "rows": [
+    {
+      "item": "A",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "e",
+        "ɪ"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        2
+      ],
+      "original_durations": [
+        4,
+        1,
+        1,
+        4,
+        6,
+        4,
+        4,
+        4,
+        8
+      ],
+      "a5_durations": [
+        3,
+        1,
+        1,
+        3,
+        6,
+        3,
+        4,
+        2,
+        6
+      ],
+      "changed_indices": [
+        0,
+        3,
+        5,
+        7,
+        8
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          5,
+          7,
+          0,
+          8
+        ],
+        "E3": [
+          7,
+          8
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 19.444444444444446,
+      "original": {
+        "samples": 9216,
+        "duration_ms": 576.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "d297232281b60bfd5bffff39167a996971ac31fc81e9a90ad0fbbdcc03874761"
+      },
+      "a5": {
+        "samples": 7424,
+        "duration_ms": 464.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "104fe5562a7f4869d31b0ca6b0f1014f2ce7e741ffdec4cb8bbc68fb1c6b0920"
+      },
+      "dominant_classes": {
+        "boundary/silence": 8,
+        "padding": 4,
+        "stress/control marker": 1,
+        "vowel": 4
+      }
+    },
+    {
+      "item": "B",
+      "group": "character",
+      "phonemes": [
+        "b",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        15,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        5,
+        3,
+        2,
+        3,
+        2,
+        7
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        3,
+        1,
+        3,
+        1,
+        5
+      ],
+      "changed_indices": [
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          5,
+          7,
+          9,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 21.428571428571427,
+      "original": {
+        "samples": 7168,
+        "duration_ms": 448.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "f700a7e3777bbb28e03139710fd1b6380ac2ea1b6bf1e5058174b2a78fe9abf8"
+      },
+      "a5": {
+        "samples": 5632,
+        "duration_ms": 352.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "b345e1b855cf80aa778d7a379d5ca57a997f48af32db7ef67b51e9a99d4b6564"
+      },
+      "dominant_classes": {
+        "boundary/silence": 7,
+        "padding": 2,
+        "stop": 1,
+        "stress/control marker": 3,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "D",
+      "group": "character",
+      "phonemes": [
+        "d",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        17,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        1,
+        3,
+        3,
+        6
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        1,
+        3,
+        1,
+        4
+      ],
+      "changed_indices": [
+        5,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          9,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 5,
+      "milliseconds_saved": 80,
+      "percent_reduction": 20.0,
+      "original": {
+        "samples": 6400,
+        "duration_ms": 400.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "b8fae5fa098260da5f596aa906ea18287e764dbfa2692e7a7f473f0039b982dd"
+      },
+      "a5": {
+        "samples": 5120,
+        "duration_ms": 320.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "8a48d978a9d2031e7608e22d66f39cb5707a0b9c78c4d497b5b5a8e03d1f31a3"
+      },
+      "dominant_classes": {
+        "boundary/silence": 6,
+        "padding": 3,
+        "stop": 1,
+        "stress/control marker": 3,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "E",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        4,
+        1,
+        2,
+        1,
+        6,
+        4,
+        2,
+        3,
+        5
+      ],
+      "a5_durations": [
+        3,
+        1,
+        2,
+        1,
+        6,
+        3,
+        2,
+        1,
+        3
+      ],
+      "changed_indices": [
+        0,
+        5,
+        7,
+        8
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          0,
+          8
+        ],
+        "E3": [
+          7,
+          8
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 21.428571428571427,
+      "original": {
+        "samples": 7168,
+        "duration_ms": 448.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "3d9c31fa0f3f1bca038cb550fcf3a45aff9ddd305aa7ef38ea51e5a372bcf070"
+      },
+      "a5": {
+        "samples": 5632,
+        "duration_ms": 352.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "8438a431a4d93ce239fbec41ffa9ea7053ebbaec4364e63100deff7384621639"
+      },
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 3,
+        "stress/control marker": 2,
+        "vowel": 6
+      }
+    },
+    {
+      "item": "F",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "ɛ",
+        "f"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        61,
+        0,
+        19,
+        0,
+        2
+      ],
+      "original_durations": [
+        7,
+        6,
+        5,
+        3,
+        10,
+        2,
+        8,
+        4,
+        5
+      ],
+      "a5_durations": [
+        6,
+        5,
+        5,
+        2,
+        10,
+        1,
+        8,
+        2,
+        3
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          0,
+          8
+        ],
+        "E3": [
+          7,
+          8
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 16.0,
+      "original": {
+        "samples": 12800,
+        "duration_ms": 800.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "5a84c75d65db6042d9b143a2bd21cd9cc9824ec8f19f63a4ea2e79ca98937303"
+      },
+      "a5": {
+        "samples": 10752,
+        "duration_ms": 672.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "f53fa8e573bf819214b042ebf40eb7edd31726acf51d1c91d0880cb3af88f9a0"
+      },
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 4,
+        "stress/control marker": 5,
+        "vowel": 10,
+        "fricative": 8
+      }
+    },
+    {
+      "item": "G",
+      "group": "character",
+      "phonemes": [
+        "d",
+        "ʒ",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        17,
+        0,
+        108,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        2,
+        2,
+        5,
+        3,
+        2,
+        2,
+        4
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        2,
+        1,
+        5,
+        2,
+        2,
+        1,
+        2
+      ],
+      "changed_indices": [
+        5,
+        7,
+        9,
+        11,
+        12
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          9,
+          11,
+          12
+        ],
+        "E3": [
+          12
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 20.0,
+      "original": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "e21bcee57bea005b3f6553175697d584ab8a0a5e34db0f21e50147628e34e675"
+      },
+      "a5": {
+        "samples": 6144,
+        "duration_ms": 384.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "39fa85c5257b2f017281044d86b6337bb9da1b3b920468d1ad5d546f46d1915f"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 2,
+        "stop": 1,
+        "fricative": 1,
+        "stress/control marker": 2,
+        "vowel": 5
+      }
+    },
+    {
+      "item": "J",
+      "group": "character",
+      "phonemes": [
+        "d",
+        "ʒ",
+        "ˈ",
+        "e",
+        "ɪ"
+      ],
+      "ids": [
+        1,
+        0,
+        17,
+        0,
+        108,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        2,
+        1,
+        3,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1,
+        5,
+        2
+      ],
+      "a5_durations": [
+        1,
+        1,
+        2,
+        1,
+        3,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        3,
+        1
+      ],
+      "changed_indices": [
+        5,
+        7,
+        11,
+        12
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          11,
+          12
+        ],
+        "E3": [
+          11
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 5,
+      "milliseconds_saved": 80,
+      "percent_reduction": 19.230769230769234,
+      "original": {
+        "samples": 6656,
+        "duration_ms": 416.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "4eea329e6441b3565b7203898c5ce0d6e52db9e7578c195d673b34a274323cff"
+      },
+      "a5": {
+        "samples": 5376,
+        "duration_ms": 336.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "2d3eb1aa89e71b15d780a169ee42b19ce2c35aeec7427075cf988c3329186f6a"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 5,
+        "stop": 2,
+        "fricative": 3,
+        "stress/control marker": 2,
+        "vowel": 1
+      }
+    },
+    {
+      "item": "K",
+      "group": "character",
+      "phonemes": [
+        "k",
+        "ˈ",
+        "e",
+        "ɪ"
+      ],
+      "ids": [
+        1,
+        0,
+        23,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        10
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        2,
+        2,
+        1,
+        8
+      ],
+      "changed_indices": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 24.242424242424242,
+      "original": {
+        "samples": 8448,
+        "duration_ms": 528.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "3037a6f373589522205a6c8db6b05cbd1cea2a11d92cd67978b011628683c329"
+      },
+      "a5": {
+        "samples": 6400,
+        "duration_ms": 400.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "51a0b875b3efe7394b37b6e2cec6b1d5e35834538480508c4c864968f69991dc"
+      },
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 3,
+        "stop": 1,
+        "stress/control marker": 3,
+        "vowel": 2
+      }
+    },
+    {
+      "item": "M",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "ɛ",
+        "m"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        61,
+        0,
+        25,
+        0,
+        2
+      ],
+      "original_durations": [
+        11,
+        3,
+        6,
+        6,
+        8,
+        4,
+        3,
+        5,
+        4
+      ],
+      "a5_durations": [
+        10,
+        2,
+        6,
+        5,
+        8,
+        3,
+        3,
+        3,
+        2
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          0,
+          8
+        ],
+        "E3": [
+          7,
+          8
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 16.0,
+      "original": {
+        "samples": 12800,
+        "duration_ms": 800.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "d6e96dfbbccdad93b81f35019c431901e65e56a9946c394b70e06b7064a7dbdf"
+      },
+      "a5": {
+        "samples": 10752,
+        "duration_ms": 672.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "2881abaaa35cf9b4081064168ce133d3d51890a25f5e2c760eebacbaa1060bcb"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 5,
+        "stress/control marker": 6,
+        "vowel": 8,
+        "nasal": 3
+      }
+    },
+    {
+      "item": "P",
+      "group": "character",
+      "phonemes": [
+        "p",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        28,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        4,
+        3,
+        2,
+        2,
+        4
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        4,
+        2,
+        2,
+        1,
+        2
+      ],
+      "changed_indices": [
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          7
+        ],
+        "E2": [
+          9,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 4,
+      "milliseconds_saved": 64,
+      "percent_reduction": 17.391304347826086,
+      "original": {
+        "samples": 5888,
+        "duration_ms": 368.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "a1e8c614d0d64c0412c3b068af151bc812419c82fad2ec3d71f02055ff8832b0"
+      },
+      "a5": {
+        "samples": 4864,
+        "duration_ms": 304.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "fe5b57a8d84445b775cea15d949498cb9d8abcf55437022974d371728ee6e3d8"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 2,
+        "stop": 1,
+        "stress/control marker": 2,
+        "vowel": 4
+      }
+    },
+    {
+      "item": "R",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "ɑ",
+        "ː",
+        "ɹ"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        51,
+        0,
+        122,
+        0,
+        88,
+        0,
+        2
+      ],
+      "original_durations": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        4,
+        3,
+        5,
+        3,
+        4,
+        3
+      ],
+      "a5_durations": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        3,
+        2,
+        1
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          0,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 27.27272727272727,
+      "original": {
+        "samples": 8448,
+        "duration_ms": 528.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "df2407a566bff2a37fde953053585c0f0643fa04bb9f0f98fe9d34b396f37b13"
+      },
+      "a5": {
+        "samples": 6144,
+        "duration_ms": 384.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "764391d914be8939276c1c99590d4781588fcc4dd3b70b5ebb576207965e191d"
+      },
+      "dominant_classes": {
+        "boundary/silence": 3,
+        "padding": 4,
+        "stress/control marker": 3,
+        "vowel": 2,
+        "liquid": 3
+      }
+    },
+    {
+      "item": "S",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "ɛ",
+        "s"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        61,
+        0,
+        31,
+        0,
+        2
+      ],
+      "original_durations": [
+        4,
+        1,
+        5,
+        3,
+        3,
+        1,
+        10,
+        5,
+        2
+      ],
+      "a5_durations": [
+        3,
+        1,
+        5,
+        2,
+        3,
+        1,
+        10,
+        3,
+        1
+      ],
+      "changed_indices": [
+        0,
+        3,
+        7,
+        8
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          7,
+          0,
+          8
+        ],
+        "E3": [
+          7
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 5,
+      "milliseconds_saved": 80,
+      "percent_reduction": 14.705882352941178,
+      "original": {
+        "samples": 8704,
+        "duration_ms": 544.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "91c7d06d73700fe3d6a290cb65a2484f67e595b51b369db65ffefaa6e2440385"
+      },
+      "a5": {
+        "samples": 7424,
+        "duration_ms": 464.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "caf2752d10dcf2175f5705963ea847caaf9c573d339aedcb1a7494d8b9540c72"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 5,
+        "stress/control marker": 5,
+        "vowel": 3,
+        "fricative": 10
+      }
+    },
+    {
+      "item": "T",
+      "group": "character",
+      "phonemes": [
+        "t",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        32,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        4,
+        1,
+        2,
+        6,
+        1,
+        2,
+        3,
+        10
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        6,
+        1,
+        2,
+        1,
+        8
+      ],
+      "changed_indices": [
+        3,
+        5,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          5,
+          9,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 18.75,
+      "original": {
+        "samples": 8192,
+        "duration_ms": 512.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "27fc103b67d87ba29e17846809120a17bd4540c6d63f4992d307cfe4ee9dc14d"
+      },
+      "a5": {
+        "samples": 6656,
+        "duration_ms": 416.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "4def1613a1313dc19e396eaf4db1345a723aa948ae5c41ab796676ac8249e0d5"
+      },
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 3,
+        "stop": 1,
+        "stress/control marker": 2,
+        "vowel": 6
+      }
+    },
+    {
+      "item": "U",
+      "group": "character",
+      "phonemes": [
+        "j",
+        "ˈ",
+        "u",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        22,
+        0,
+        120,
+        0,
+        33,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        5,
+        1,
+        3,
+        2,
+        3,
+        4,
+        3,
+        5,
+        4,
+        1,
+        11
+      ],
+      "a5_durations": [
+        4,
+        1,
+        3,
+        1,
+        3,
+        3,
+        3,
+        4,
+        4,
+        1,
+        9
+      ],
+      "changed_indices": [
+        0,
+        3,
+        5,
+        7,
+        10
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          5,
+          7,
+          0,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 14.285714285714285,
+      "original": {
+        "samples": 10752,
+        "duration_ms": 672.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "2bbea76a826cf7c87f50db7ce2e968b6120197b462cf7936f53b633572aad8ae"
+      },
+      "a5": {
+        "samples": 9216,
+        "duration_ms": 576.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "e4368e98846a59070fb670987c260799795d508cfeb77f0b40fbacb3d9b7ba91"
+      },
+      "dominant_classes": {
+        "boundary/silence": 11,
+        "padding": 1,
+        "glide": 3,
+        "stress/control marker": 4,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "V",
+      "group": "character",
+      "phonemes": [
+        "v",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        34,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        4,
+        2,
+        3,
+        1,
+        3,
+        4,
+        4,
+        2,
+        2,
+        4
+      ],
+      "a5_durations": [
+        1,
+        3,
+        2,
+        2,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1,
+        2
+      ],
+      "changed_indices": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 23.333333333333332,
+      "original": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "4515b8e970cb986201038ba05d1edfc0f0c14353a93968fd4205e2319eb64055"
+      },
+      "a5": {
+        "samples": 5888,
+        "duration_ms": 368.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "fe48f79c315ca78d6ba8ef0c152af1a9ea9013d0f7833b76432afcf13d258721"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 2,
+        "fricative": 2,
+        "stress/control marker": 2,
+        "vowel": 4
+      }
+    },
+    {
+      "item": "W",
+      "group": "character",
+      "phonemes": [
+        "d",
+        "ˈ",
+        "ʌ",
+        "b",
+        "ə",
+        "l",
+        "j",
+        "ˌ",
+        "u",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        17,
+        0,
+        120,
+        0,
+        102,
+        0,
+        15,
+        0,
+        59,
+        0,
+        24,
+        0,
+        22,
+        0,
+        121,
+        0,
+        33,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        2,
+        3,
+        4,
+        1,
+        2
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        4,
+        1,
+        2,
+        2,
+        4,
+        1,
+        1
+      ],
+      "changed_indices": [
+        0,
+        3,
+        7,
+        15,
+        17,
+        19,
+        22
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          7,
+          15,
+          17,
+          19,
+          0,
+          22
+        ],
+        "E3": [],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 17.073170731707318,
+      "original": {
+        "samples": 10496,
+        "duration_ms": 656.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "1d451c27a1523ee5def1c41ecf7fab86bde76bdab6395841b4ee3afcf0d88a5a"
+      },
+      "a5": {
+        "samples": 8704,
+        "duration_ms": 544.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "6b447243f1101199a32ee292a58f660992a07d00695f139fb1b2e4481fb0cb3a"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 1,
+        "stop": 2,
+        "stress/control marker": 4,
+        "vowel": 2,
+        "liquid": 1,
+        "glide": 2
+      }
+    },
+    {
+      "item": "X",
+      "group": "character",
+      "phonemes": [
+        "ˈ",
+        "ɛ",
+        "k",
+        "s"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        61,
+        0,
+        23,
+        0,
+        31,
+        0,
+        2
+      ],
+      "original_durations": [
+        2,
+        2,
+        3,
+        3,
+        4,
+        2,
+        3,
+        5,
+        9,
+        4,
+        3
+      ],
+      "a5_durations": [
+        1,
+        1,
+        3,
+        2,
+        4,
+        1,
+        3,
+        4,
+        9,
+        2,
+        1
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          0,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 22.5,
+      "original": {
+        "samples": 10240,
+        "duration_ms": 640.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "8aef2cd1626163df263bc6b47f61cc4fed52e96e44088aa935cda9771b433e2b"
+      },
+      "a5": {
+        "samples": 7936,
+        "duration_ms": 496.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "fa605327e491448bca282a383830e1b495b8ff3d9393163d2c5752d997fefa9c"
+      },
+      "dominant_classes": {
+        "boundary/silence": 3,
+        "padding": 4,
+        "stress/control marker": 3,
+        "vowel": 4,
+        "stop": 3,
+        "fricative": 9
+      }
+    },
+    {
+      "item": "Z",
+      "group": "character",
+      "phonemes": [
+        "z",
+        "ˈ",
+        "i",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        38,
+        0,
+        120,
+        0,
+        21,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        3,
+        1,
+        2,
+        5,
+        7,
+        1,
+        1,
+        2,
+        2,
+        5
+      ],
+      "a5_durations": [
+        1,
+        2,
+        1,
+        1,
+        5,
+        6,
+        1,
+        1,
+        2,
+        1,
+        3
+      ],
+      "changed_indices": [
+        1,
+        3,
+        5,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          9,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 20.0,
+      "original": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "eaaa242b87a2832c2d8781d4ea194752cdf0d9caf7f3adecea15e380028efc82"
+      },
+      "a5": {
+        "samples": 6144,
+        "duration_ms": 384.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "099d5ddff17d8dbc1d6770b3197cabed9a25daee825b542f8939f00819175d22"
+      },
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 2,
+        "fricative": 1,
+        "stress/control marker": 2,
+        "vowel": 1
+      }
+    },
+    {
+      "item": "0",
+      "group": "digit",
+      "phonemes": [
+        "z",
+        "ˈ",
+        "i",
+        "ə",
+        "ɹ",
+        "o",
+        "ʊ"
+      ],
+      "ids": [
+        1,
+        0,
+        38,
+        0,
+        120,
+        0,
+        21,
+        0,
+        59,
+        0,
+        88,
+        0,
+        27,
+        0,
+        100,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        5,
+        7
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        5
+      ],
+      "changed_indices": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        16
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          16
+        ],
+        "E3": [
+          15,
+          16
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 23.076923076923077,
+      "original": {
+        "samples": 9984,
+        "duration_ms": 624.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "3063534e351b9317fe9b4c7ad15fa01d29c4776034d396548d58e80c8b251275"
+      },
+      "a5": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "c1f4e298ea3c188504acd068dd43cd424d4959ce93ed2e6916e58b978f748cd5"
+      },
+      "dominant_classes": {
+        "boundary/silence": 7,
+        "padding": 5,
+        "fricative": 1,
+        "stress/control marker": 1,
+        "vowel": 2,
+        "liquid": 2
+      }
+    },
+    {
+      "item": "1",
+      "group": "digit",
+      "phonemes": [
+        "w",
+        "ˈ",
+        "ʌ",
+        "n"
+      ],
+      "ids": [
+        1,
+        0,
+        35,
+        0,
+        120,
+        0,
+        102,
+        0,
+        26,
+        0,
+        2
+      ],
+      "original_durations": [
+        3,
+        1,
+        3,
+        1,
+        1,
+        4,
+        2,
+        2,
+        6,
+        2,
+        4
+      ],
+      "a5_durations": [
+        2,
+        1,
+        3,
+        1,
+        1,
+        3,
+        2,
+        1,
+        6,
+        1,
+        2
+      ],
+      "changed_indices": [
+        0,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          9,
+          0,
+          10
+        ],
+        "E3": [
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 6,
+      "milliseconds_saved": 96,
+      "percent_reduction": 20.689655172413794,
+      "original": {
+        "samples": 7424,
+        "duration_ms": 464.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "eaa32b0c6e420012609324260ae31a93875b6d1f8e62f018445b5dcaf12b050d"
+      },
+      "a5": {
+        "samples": 5888,
+        "duration_ms": 368.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "238ce429502d8d1ec3cba68556917358d2b0e452e5cba33dbaba48c0161865ed"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 2,
+        "glide": 3,
+        "stress/control marker": 1,
+        "vowel": 2,
+        "nasal": 6
+      }
+    },
+    {
+      "item": "2",
+      "group": "digit",
+      "phonemes": [
+        "t",
+        "ˈ",
+        "u",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        32,
+        0,
+        120,
+        0,
+        33,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        12,
+        1,
+        2,
+        3,
+        3,
+        1,
+        2,
+        6,
+        2,
+        4,
+        10
+      ],
+      "a5_durations": [
+        11,
+        1,
+        2,
+        2,
+        3,
+        1,
+        2,
+        5,
+        2,
+        2,
+        8
+      ],
+      "changed_indices": [
+        0,
+        3,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          7,
+          9,
+          0,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 15.217391304347828,
+      "original": {
+        "samples": 11776,
+        "duration_ms": 736.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "a43bd3747af1fa3336f7e02c18b548135f10612215ba5996b294d1014cb15a24"
+      },
+      "a5": {
+        "samples": 9984,
+        "duration_ms": 624.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "9a548cb3ac0d0a6e7e12cfc4ee22e97f696b6c17c922e3e3baee282d1ccf820e"
+      },
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 4,
+        "stop": 2,
+        "stress/control marker": 2,
+        "vowel": 2
+      }
+    },
+    {
+      "item": "5",
+      "group": "digit",
+      "phonemes": [
+        "f",
+        "ˈ",
+        "a",
+        "ɪ",
+        "v"
+      ],
+      "ids": [
+        1,
+        0,
+        19,
+        0,
+        120,
+        0,
+        14,
+        0,
+        74,
+        0,
+        34,
+        0,
+        2
+      ],
+      "original_durations": [
+        4,
+        8,
+        2,
+        5,
+        3,
+        2,
+        2,
+        5,
+        3,
+        2,
+        5,
+        3,
+        4
+      ],
+      "a5_durations": [
+        3,
+        7,
+        2,
+        4,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        5,
+        1,
+        2
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        12
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          0,
+          12
+        ],
+        "E3": [
+          11,
+          12
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 10,
+      "milliseconds_saved": 160,
+      "percent_reduction": 20.833333333333336,
+      "original": {
+        "samples": 12288,
+        "duration_ms": 768.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "07df08618d5f9118625739e0d2c723234ba780bcc1d2b39482d8bbbaf39782aa"
+      },
+      "a5": {
+        "samples": 9728,
+        "duration_ms": 608.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "14c61ea90603645f539b8b664a4333763c237724111e0f60c37ddecb5e4b676b"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 3,
+        "fricative": 5,
+        "stress/control marker": 3,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "7",
+      "group": "digit",
+      "phonemes": [
+        "s",
+        "ˈ",
+        "ɛ",
+        "v",
+        "ə",
+        "n"
+      ],
+      "ids": [
+        1,
+        0,
+        31,
+        0,
+        120,
+        0,
+        61,
+        0,
+        34,
+        0,
+        59,
+        0,
+        26,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        2,
+        1,
+        1,
+        3,
+        3,
+        1,
+        3,
+        2,
+        2,
+        1,
+        1,
+        5,
+        4,
+        3
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        5,
+        2,
+        1
+      ],
+      "changed_indices": [
+        1,
+        5,
+        7,
+        9,
+        13,
+        14
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          5,
+          7,
+          9,
+          13,
+          14
+        ],
+        "E3": [
+          13,
+          14
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 24.242424242424242,
+      "original": {
+        "samples": 8448,
+        "duration_ms": 528.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "14a45fd7cf57356ae1f532437416067c57a7438b5cb4e4e812c165168db29359"
+      },
+      "a5": {
+        "samples": 6400,
+        "duration_ms": 400.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "c64f8c6fda4c2490ef6bda788373afe0a881c28d06de26c61f5dd1805d76a961"
+      },
+      "dominant_classes": {
+        "boundary/silence": 3,
+        "padding": 4,
+        "fricative": 2,
+        "stress/control marker": 3,
+        "vowel": 1,
+        "nasal": 5
+      }
+    },
+    {
+      "item": "8",
+      "group": "digit",
+      "phonemes": [
+        "ˈ",
+        "e",
+        "ɪ",
+        "t"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        32,
+        0,
+        2
+      ],
+      "original_durations": [
+        2,
+        2,
+        2,
+        4,
+        1,
+        4,
+        1,
+        2,
+        1,
+        4,
+        7
+      ],
+      "a5_durations": [
+        1,
+        1,
+        2,
+        3,
+        1,
+        3,
+        1,
+        1,
+        1,
+        2,
+        5
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          7,
+          9,
+          0,
+          10
+        ],
+        "E3": [
+          9,
+          10
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 30.0,
+      "original": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "ce29cc8931e07e2ebc4dcd5d9969c6ec5224a947e78132165888e9e794a34a8e"
+      },
+      "a5": {
+        "samples": 5376,
+        "duration_ms": 336.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "1e14b4285b415e43e2635c1ae26c42f4acef9b9f738c2e2ee0305ec42193ae7c"
+      },
+      "dominant_classes": {
+        "boundary/silence": 7,
+        "padding": 4,
+        "stress/control marker": 2,
+        "vowel": 1,
+        "stop": 1
+      }
+    },
+    {
+      "item": "9",
+      "group": "digit",
+      "phonemes": [
+        "n",
+        "ˈ",
+        "a",
+        "ɪ",
+        "n"
+      ],
+      "ids": [
+        1,
+        0,
+        26,
+        0,
+        120,
+        0,
+        14,
+        0,
+        74,
+        0,
+        26,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        3,
+        3,
+        1,
+        5,
+        2,
+        3,
+        1,
+        3,
+        4,
+        4,
+        4,
+        10
+      ],
+      "a5_durations": [
+        1,
+        2,
+        3,
+        1,
+        5,
+        1,
+        3,
+        1,
+        3,
+        3,
+        4,
+        2,
+        8
+      ],
+      "changed_indices": [
+        1,
+        5,
+        9,
+        11,
+        12
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          5,
+          9,
+          11,
+          12
+        ],
+        "E3": [
+          11,
+          12
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 15.909090909090908,
+      "original": {
+        "samples": 11264,
+        "duration_ms": 704.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "728ec5d6c2d476815263279b23fbfde2104806b3f960bb7cf4f91b39db61b712"
+      },
+      "a5": {
+        "samples": 9472,
+        "duration_ms": 592.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "2246125ed4cb768041ee48e19cfe33f8aa2dc3872a375bc8cdbde2c4eb8e32e8"
+      },
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 4,
+        "nasal": 4,
+        "stress/control marker": 5,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "comma",
+      "group": "punctuation",
+      "phonemes": [
+        "k",
+        "ˈ",
+        "ɑ",
+        "ː",
+        "m",
+        "ə"
+      ],
+      "ids": [
+        1,
+        0,
+        23,
+        0,
+        120,
+        0,
+        51,
+        0,
+        122,
+        0,
+        25,
+        0,
+        59,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        3,
+        2,
+        1,
+        3,
+        2,
+        2,
+        1,
+        4,
+        1,
+        11
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        3,
+        1,
+        2,
+        1,
+        4,
+        1,
+        9
+      ],
+      "changed_indices": [
+        3,
+        5,
+        9,
+        14
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          5,
+          9,
+          14
+        ],
+        "E3": [
+          14
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 5,
+      "milliseconds_saved": 80,
+      "percent_reduction": 13.88888888888889,
+      "original": {
+        "samples": 9216,
+        "duration_ms": 576.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "247157d7cf121f50b10ccf25fbf765e67b53e79cc256ef53c2f0025dd0a89dba"
+      },
+      "a5": {
+        "samples": 7936,
+        "duration_ms": 496.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "e29ecdbb3d817caa1781f9c82cafd8f4bf709aee84048a4ad9cfa572fc229f94"
+      },
+      "dominant_classes": {
+        "boundary/silence": 11,
+        "padding": 1,
+        "stop": 1,
+        "stress/control marker": 3,
+        "vowel": 4,
+        "nasal": 2
+      }
+    },
+    {
+      "item": "period",
+      "group": "punctuation",
+      "phonemes": [
+        "p",
+        "ˈ",
+        "i",
+        "ə",
+        "ɹ",
+        "ɪ",
+        "ʲ",
+        "ə",
+        "d"
+      ],
+      "ids": [
+        1,
+        0,
+        28,
+        0,
+        120,
+        0,
+        21,
+        0,
+        59,
+        0,
+        88,
+        0,
+        74,
+        0,
+        119,
+        0,
+        59,
+        0,
+        17,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        5,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        5,
+        2
+      ],
+      "a5_durations": [
+        1,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        3,
+        1
+      ],
+      "changed_indices": [
+        1,
+        7,
+        13,
+        15,
+        19,
+        20
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          7,
+          13,
+          15,
+          19,
+          20
+        ],
+        "E3": [
+          19
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 18.91891891891892,
+      "original": {
+        "samples": 9472,
+        "duration_ms": 592.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "416c1b06d5e54710cdd43b6af0d0acb8dd2b3d911ac38a718cec20d20272066c"
+      },
+      "a5": {
+        "samples": 7680,
+        "duration_ms": 480.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "bfdf427b2dd323e30a4557d0c688d377f9009046e1d77a53234517762e1f8203"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 5,
+        "stop": 2,
+        "stress/control marker": 1,
+        "vowel": 2,
+        "liquid": 1,
+        "other speech-bearing": 2
+      }
+    },
+    {
+      "item": "question mark",
+      "group": "punctuation",
+      "phonemes": [
+        "k",
+        "w",
+        "ˈ",
+        "ɛ",
+        "s",
+        "t",
+        "ʃ",
+        "ə",
+        "n",
+        " ",
+        "m",
+        "ˈ",
+        "ɑ",
+        "ː",
+        "ɹ",
+        "k"
+      ],
+      "ids": [
+        1,
+        0,
+        23,
+        0,
+        35,
+        0,
+        120,
+        0,
+        61,
+        0,
+        31,
+        0,
+        32,
+        0,
+        96,
+        0,
+        59,
+        0,
+        26,
+        0,
+        3,
+        0,
+        25,
+        0,
+        120,
+        0,
+        51,
+        0,
+        122,
+        0,
+        88,
+        0,
+        23,
+        0,
+        2
+      ],
+      "original_durations": [
+        4,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        1,
+        3,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "a5_durations": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "changed_indices": [
+        0,
+        1,
+        11,
+        23,
+        25,
+        31,
+        33,
+        34
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          11,
+          23,
+          25,
+          31,
+          33,
+          0,
+          34
+        ],
+        "E3": [
+          34
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 16.071428571428573,
+      "original": {
+        "samples": 14336,
+        "duration_ms": 896.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "84203fc4b4f661d479aaa8dcfebbb0be42b66778cd393d03815e7b830081f6a1"
+      },
+      "a5": {
+        "samples": 12032,
+        "duration_ms": 752.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "53372c712e9f053cc30f27a491b769effd5b5c361c65885afa1ac858c2a65ee8"
+      },
+      "dominant_classes": {
+        "boundary/silence": 3,
+        "padding": 2,
+        "stop": 2,
+        "glide": 1,
+        "stress/control marker": 3,
+        "vowel": 2,
+        "fricative": 2,
+        "nasal": 1,
+        "punctuation/boundary": 3,
+        "liquid": 1
+      }
+    },
+    {
+      "item": "exclamation mark",
+      "group": "punctuation",
+      "phonemes": [
+        "ɛ",
+        "k",
+        "s",
+        "k",
+        "l",
+        "ɐ",
+        "m",
+        "ˈ",
+        "e",
+        "ɪ",
+        "ʃ",
+        "ə",
+        "n",
+        " ",
+        "m",
+        "ˈ",
+        "ɑ",
+        "ː",
+        "ɹ",
+        "k"
+      ],
+      "ids": [
+        1,
+        0,
+        61,
+        0,
+        23,
+        0,
+        31,
+        0,
+        23,
+        0,
+        24,
+        0,
+        50,
+        0,
+        25,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        96,
+        0,
+        59,
+        0,
+        26,
+        0,
+        3,
+        0,
+        25,
+        0,
+        120,
+        0,
+        51,
+        0,
+        122,
+        0,
+        88,
+        0,
+        23,
+        0,
+        2
+      ],
+      "original_durations": [
+        2,
+        2,
+        4,
+        3,
+        2,
+        4,
+        2,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        3,
+        2
+      ],
+      "a5_durations": [
+        1,
+        1,
+        4,
+        2,
+        2,
+        3,
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        5,
+        9,
+        15,
+        33,
+        35,
+        37,
+        39,
+        41,
+        42
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          5,
+          9,
+          15,
+          33,
+          35,
+          37,
+          39,
+          41,
+          0,
+          42
+        ],
+        "E3": [
+          41
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 13,
+      "milliseconds_saved": 208,
+      "percent_reduction": 17.333333333333336,
+      "original": {
+        "samples": 19200,
+        "duration_ms": 1200.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "f638b36b744a9c52600c52bc513b43081728d81d699974cb97aeb58d69410d20"
+      },
+      "a5": {
+        "samples": 15872,
+        "duration_ms": 992.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "03a2554775358065dc7046916d9fd00be34fa54026652e05afe2295f2bf08685"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 3,
+        "vowel": 1,
+        "stop": 1,
+        "fricative": 2,
+        "liquid": 2,
+        "nasal": 1,
+        "stress/control marker": 2,
+        "punctuation/boundary": 2
+      }
+    },
+    {
+      "item": "colon",
+      "group": "punctuation",
+      "phonemes": [
+        "k",
+        "ˈ",
+        "o",
+        "ʊ",
+        "l",
+        "ə",
+        "n"
+      ],
+      "ids": [
+        1,
+        0,
+        23,
+        0,
+        120,
+        0,
+        27,
+        0,
+        100,
+        0,
+        24,
+        0,
+        59,
+        0,
+        26,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        3,
+        1,
+        3,
+        1,
+        3,
+        1,
+        3,
+        4,
+        3,
+        4
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2
+      ],
+      "changed_indices": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        16
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          9,
+          11,
+          13,
+          15,
+          16
+        ],
+        "E3": [
+          15,
+          16
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 26.47058823529412,
+      "original": {
+        "samples": 8704,
+        "duration_ms": 544.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "4f93bfb33cd417ae3194e9387c934db048ad108d1057befb079a136cd8eb4aa9"
+      },
+      "a5": {
+        "samples": 6400,
+        "duration_ms": 400.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "42a35be82d8ee78ace19fc9507bfe7faa89722ff7826a67276b635909a7499d4"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 3,
+        "stop": 1,
+        "stress/control marker": 1,
+        "vowel": 1,
+        "liquid": 1,
+        "nasal": 4
+      }
+    },
+    {
+      "item": "button",
+      "group": "ui",
+      "phonemes": [
+        "b",
+        "ˈ",
+        "ʌ",
+        "ʔ",
+        "n",
+        "̩"
+      ],
+      "ids": [
+        1,
+        0,
+        15,
+        0,
+        120,
+        0,
+        102,
+        0,
+        109,
+        0,
+        26,
+        0,
+        144,
+        0,
+        2
+      ],
+      "original_durations": [
+        3,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        5,
+        5,
+        3,
+        4
+      ],
+      "a5_durations": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        5,
+        1,
+        2
+      ],
+      "changed_indices": [
+        0,
+        3,
+        7,
+        11,
+        13,
+        14
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          7,
+          11,
+          13,
+          0,
+          14
+        ],
+        "E3": [
+          13,
+          14
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 23.52941176470588,
+      "original": {
+        "samples": 8704,
+        "duration_ms": 544.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "53ac1eb48511c6850cd43d47980fb0c4eba4a3cae7e53cfc217345c1742fdf73"
+      },
+      "a5": {
+        "samples": 6656,
+        "duration_ms": 416.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "f2160dc0376ccb4181e155a9547550700b2db2754e40295e8106181babe49da9"
+      },
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 3,
+        "stop": 1,
+        "stress/control marker": 5,
+        "vowel": 1,
+        "nasal": 2
+      }
+    },
+    {
+      "item": "selected",
+      "group": "ui",
+      "phonemes": [
+        "s",
+        "ᵻ",
+        "l",
+        "ˈ",
+        "ɛ",
+        "k",
+        "t",
+        "ᵻ",
+        "d"
+      ],
+      "ids": [
+        1,
+        0,
+        31,
+        0,
+        128,
+        0,
+        24,
+        0,
+        120,
+        0,
+        61,
+        0,
+        23,
+        0,
+        32,
+        0,
+        128,
+        0,
+        17,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        2,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        5,
+        1,
+        3,
+        3,
+        2
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        5,
+        1,
+        3,
+        1,
+        1
+      ],
+      "changed_indices": [
+        1,
+        9,
+        11,
+        15,
+        19,
+        20
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          9,
+          11,
+          15,
+          19,
+          20
+        ],
+        "E3": [
+          19
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 17.94871794871795,
+      "original": {
+        "samples": 9984,
+        "duration_ms": 624.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "0db106dca03dd2de04f2644dfea79a142207bc952e3a201945af063ec3e28554"
+      },
+      "a5": {
+        "samples": 8192,
+        "duration_ms": 512.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "453766e1fef54d0f46dae6d2222965db4bac0f2c21a072574dad3e84b3df62af"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 3,
+        "fricative": 1,
+        "other speech-bearing": 5,
+        "liquid": 1,
+        "stress/control marker": 1,
+        "vowel": 1,
+        "stop": 3
+      }
+    },
+    {
+      "item": "checked",
+      "group": "ui",
+      "phonemes": [
+        "t",
+        "ʃ",
+        "ˈ",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "ids": [
+        1,
+        0,
+        32,
+        0,
+        96,
+        0,
+        120,
+        0,
+        61,
+        0,
+        23,
+        0,
+        32,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1,
+        4,
+        2,
+        2,
+        3,
+        4,
+        6
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        3,
+        2,
+        1,
+        3,
+        2,
+        4
+      ],
+      "changed_indices": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        14
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          7,
+          9,
+          11,
+          13,
+          14
+        ],
+        "E3": [
+          13,
+          14
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 23.52941176470588,
+      "original": {
+        "samples": 8704,
+        "duration_ms": 544.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "d2cff820a255de1dc1e98b611d13c869a2a84c2ea9eb97b720ed1bd703dfbffd"
+      },
+      "a5": {
+        "samples": 6656,
+        "duration_ms": 416.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "a64154c8aaaf3bac31ff1c0d054540fd98aecca7a09050d83794f628bfcff6b2"
+      },
+      "dominant_classes": {
+        "boundary/silence": 6,
+        "padding": 4,
+        "stop": 3,
+        "fricative": 1,
+        "stress/control marker": 3,
+        "vowel": 1
+      }
+    },
+    {
+      "item": "expanded",
+      "group": "ui",
+      "phonemes": [
+        "ɛ",
+        "k",
+        "s",
+        "p",
+        "ˈ",
+        "æ",
+        "n",
+        "d",
+        "ᵻ",
+        "d"
+      ],
+      "ids": [
+        1,
+        0,
+        61,
+        0,
+        23,
+        0,
+        31,
+        0,
+        28,
+        0,
+        120,
+        0,
+        39,
+        0,
+        26,
+        0,
+        17,
+        0,
+        128,
+        0,
+        17,
+        0,
+        2
+      ],
+      "original_durations": [
+        3,
+        1,
+        4,
+        1,
+        1,
+        3,
+        3,
+        1,
+        1,
+        1,
+        2,
+        4,
+        2,
+        1,
+        2,
+        2,
+        1,
+        3,
+        3,
+        1,
+        2,
+        3,
+        5
+      ],
+      "a5_durations": [
+        2,
+        1,
+        4,
+        1,
+        1,
+        2,
+        3,
+        1,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1,
+        3
+      ],
+      "changed_indices": [
+        0,
+        5,
+        11,
+        15,
+        17,
+        21,
+        22
+      ],
+      "fired": {
+        "E1": [
+          5
+        ],
+        "E2": [
+          11,
+          15,
+          17,
+          21,
+          0,
+          22
+        ],
+        "E3": [
+          21,
+          22
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 9,
+      "milliseconds_saved": 144,
+      "percent_reduction": 18.0,
+      "original": {
+        "samples": 12800,
+        "duration_ms": 800.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "29c5c78f85d4060b67d54db9f22fabfb0d76c2f799709f76e30fab066f74d3a3"
+      },
+      "a5": {
+        "samples": 10496,
+        "duration_ms": 656.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "496ad67b3027bcaabc1dae2a77ecc857fe768f499eace91281e8fb4e200f0f96"
+      },
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 3,
+        "vowel": 2,
+        "stop": 2,
+        "fricative": 3,
+        "stress/control marker": 2,
+        "nasal": 2,
+        "other speech-bearing": 3
+      }
+    },
+    {
+      "item": "unavailable",
+      "group": "ui",
+      "phonemes": [
+        "ʌ",
+        "n",
+        "ɐ",
+        "v",
+        "ˈ",
+        "e",
+        "ɪ",
+        "l",
+        "ə",
+        "b",
+        "ə",
+        "l"
+      ],
+      "ids": [
+        1,
+        0,
+        102,
+        0,
+        26,
+        0,
+        50,
+        0,
+        34,
+        0,
+        120,
+        0,
+        18,
+        0,
+        74,
+        0,
+        24,
+        0,
+        59,
+        0,
+        15,
+        0,
+        59,
+        0,
+        24,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        3,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1,
+        2,
+        3,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        4,
+        3,
+        3,
+        3,
+        4,
+        2
+      ],
+      "a5_durations": [
+        1,
+        2,
+        4,
+        1,
+        3,
+        1,
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        3,
+        3,
+        2,
+        3,
+        2,
+        1
+      ],
+      "changed_indices": [
+        1,
+        3,
+        9,
+        13,
+        19,
+        21,
+        23,
+        25,
+        26
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          9,
+          13,
+          19,
+          21,
+          23,
+          25,
+          26
+        ],
+        "E3": [
+          25
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 10,
+      "milliseconds_saved": 160,
+      "percent_reduction": 18.181818181818183,
+      "original": {
+        "samples": 14080,
+        "duration_ms": 880.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "e1f0c72b3cd78b527ccb229294d04376dc6b70621285407daa41f9e9ed8e168e"
+      },
+      "a5": {
+        "samples": 11520,
+        "duration_ms": 720.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "2831af3ed1c5c5a0df5dd51e43ccac6abe8194e42d776dc354255961fa21f2af"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 4,
+        "vowel": 3,
+        "nasal": 3,
+        "fricative": 2,
+        "stress/control marker": 1,
+        "liquid": 3,
+        "stop": 1
+      }
+    },
+    {
+      "item": "edit",
+      "group": "ui",
+      "phonemes": [
+        "ˈ",
+        "ɛ",
+        "d",
+        "ɪ",
+        "t"
+      ],
+      "ids": [
+        1,
+        0,
+        120,
+        0,
+        61,
+        0,
+        17,
+        0,
+        74,
+        0,
+        32,
+        0,
+        2
+      ],
+      "original_durations": [
+        7,
+        3,
+        1,
+        3,
+        3,
+        1,
+        3,
+        4,
+        1,
+        2,
+        4,
+        2,
+        2
+      ],
+      "a5_durations": [
+        6,
+        2,
+        1,
+        2,
+        3,
+        1,
+        3,
+        3,
+        1,
+        1,
+        4,
+        1,
+        1
+      ],
+      "changed_indices": [
+        0,
+        1,
+        3,
+        7,
+        9,
+        11,
+        12
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          3,
+          7,
+          9,
+          11,
+          0,
+          12
+        ],
+        "E3": [],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 7,
+      "milliseconds_saved": 112,
+      "percent_reduction": 19.444444444444446,
+      "original": {
+        "samples": 9216,
+        "duration_ms": 576.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "8ccde15c8f61cc9f0fac569ba9873a84a03c485b3b73036888c9f4390f5522c2"
+      },
+      "a5": {
+        "samples": 7424,
+        "duration_ms": 464.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "68c120257e0bb92987a9fd8d20c01576ca7744894549f75cacd85f2416336106"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 2,
+        "stress/control marker": 1,
+        "vowel": 1,
+        "stop": 4
+      }
+    },
+    {
+      "item": "heading",
+      "group": "ui",
+      "phonemes": [
+        "h",
+        "ˈ",
+        "ɛ",
+        "d",
+        "ɪ",
+        "ŋ"
+      ],
+      "ids": [
+        1,
+        0,
+        20,
+        0,
+        120,
+        0,
+        61,
+        0,
+        17,
+        0,
+        74,
+        0,
+        44,
+        0,
+        2
+      ],
+      "original_durations": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        4,
+        7
+      ],
+      "a5_durations": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        5
+      ],
+      "changed_indices": [
+        1,
+        5,
+        9,
+        11,
+        13,
+        14
+      ],
+      "fired": {
+        "E1": [
+          1
+        ],
+        "E2": [
+          5,
+          9,
+          11,
+          13,
+          14
+        ],
+        "E3": [
+          13,
+          14
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 22.857142857142858,
+      "original": {
+        "samples": 8960,
+        "duration_ms": 560.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "a769e081e26312f586f2e68c58318e9e2bb431305f9af261594ff6bf87b32823"
+      },
+      "a5": {
+        "samples": 6912,
+        "duration_ms": 432.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "933a7dcb8c632a7246dbec55683ba96f3f57847fa2d8c847a6d2426e30c938b3"
+      },
+      "dominant_classes": {
+        "boundary/silence": 7,
+        "padding": 4,
+        "fricative": 1,
+        "stress/control marker": 1,
+        "vowel": 3,
+        "stop": 1,
+        "nasal": 3
+      }
+    },
+    {
+      "item": "menu",
+      "group": "ui",
+      "phonemes": [
+        "m",
+        "ˈ",
+        "ɛ",
+        "n",
+        "j",
+        "u",
+        "ː"
+      ],
+      "ids": [
+        1,
+        0,
+        25,
+        0,
+        120,
+        0,
+        61,
+        0,
+        26,
+        0,
+        22,
+        0,
+        33,
+        0,
+        122,
+        0,
+        2
+      ],
+      "original_durations": [
+        3,
+        1,
+        1,
+        2,
+        3,
+        1,
+        1,
+        3,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        6,
+        3,
+        2
+      ],
+      "a5_durations": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        6,
+        1,
+        1
+      ],
+      "changed_indices": [
+        0,
+        3,
+        7,
+        9,
+        13,
+        15,
+        16
+      ],
+      "fired": {
+        "E1": [
+          3
+        ],
+        "E2": [
+          7,
+          9,
+          13,
+          15,
+          0,
+          16
+        ],
+        "E3": [
+          15
+        ],
+        "E4": [],
+        "E5": []
+      },
+      "frames_removed": 8,
+      "milliseconds_saved": 128,
+      "percent_reduction": 22.22222222222222,
+      "original": {
+        "samples": 9216,
+        "duration_ms": 576.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "d2d2f8abd775c9fe043c3deed42d6a5fb152f0ae7d73fd0e5c82554d187401d3"
+      },
+      "a5": {
+        "samples": 7168,
+        "duration_ms": 448.0,
+        "finite": true,
+        "clipped": false,
+        "sha256": "3ea7c7c977e25337d9c9002566abd5c3a91d7d97da4479de08cdfdf7e2d6467e"
+      },
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 3,
+        "nasal": 1,
+        "stress/control marker": 6,
+        "vowel": 2,
+        "glide": 2
+      }
+    }
+  ],
+  "summaries": {
+    "character": {
+      "original": {
+        "duration_ms": {
+          "median": 520.0,
+          "p75": 624.0,
+          "p90": 710.4000000000001,
+          "p95": 800.0,
+          "max": 800.0
+        },
+        "median_saved_ms": 0.0,
+        "p95_saved_ms": 0.0,
+        "median_reduction_percent": 0.0
+      },
+      "a5": {
+        "duration_ms": {
+          "median": 392.0,
+          "p75": 488.0,
+          "p90": 604.8000000000001,
+          "p95": 672.0,
+          "max": 672.0
+        },
+        "median_saved_ms": 96.0,
+        "p95_saved_ms": 144.0,
+        "median_reduction_percent": 19.72222222222222
+      }
+    },
+    "digit": {
+      "original": {
+        "duration_ms": {
+          "median": 624.0,
+          "p75": 720.0,
+          "p90": 748.8,
+          "p95": 758.4,
+          "max": 768.0
+        },
+        "median_saved_ms": 0.0,
+        "p95_saved_ms": 0.0,
+        "median_reduction_percent": 0.0
+      },
+      "a5": {
+        "duration_ms": {
+          "median": 480.0,
+          "p75": 600.0,
+          "p90": 614.4,
+          "p95": 619.2,
+          "max": 624.0
+        },
+        "median_saved_ms": 128.0,
+        "p95_saved_ms": 155.2,
+        "median_reduction_percent": 20.833333333333336
+      }
+    },
+    "punctuation": {
+      "original": {
+        "duration_ms": {
+          "median": 592.0,
+          "p75": 896.0,
+          "p90": 1078.4,
+          "p95": 1139.2,
+          "max": 1200.0
+        },
+        "median_saved_ms": 0.0,
+        "p95_saved_ms": 0.0,
+        "median_reduction_percent": 0.0
+      },
+      "a5": {
+        "duration_ms": {
+          "median": 496.0,
+          "p75": 752.0,
+          "p90": 896.0,
+          "p95": 944.0,
+          "max": 992.0
+        },
+        "median_saved_ms": 144.0,
+        "p95_saved_ms": 195.2,
+        "median_reduction_percent": 17.333333333333336
+      }
+    },
+    "ui": {
+      "original": {
+        "duration_ms": {
+          "median": 576.0,
+          "p75": 668.0,
+          "p90": 824.0,
+          "p95": 852.0,
+          "max": 880.0
+        },
+        "median_saved_ms": 0.0,
+        "p95_saved_ms": 0.0,
+        "median_reduction_percent": 0.0
+      },
+      "a5": {
+        "duration_ms": {
+          "median": 456.0,
+          "p75": 548.0,
+          "p90": 675.2,
+          "p95": 697.5999999999999,
+          "max": 720.0
+        },
+        "median_saved_ms": 128.0,
+        "p95_saved_ms": 154.39999999999998,
+        "median_reduction_percent": 20.833333333333336
+      }
+    }
+  },
+  "outliers": [
+    {
+      "item": "exclamation mark",
+      "original_ms": 1200.0,
+      "a5_ms": 992.0,
+      "frames_removed": 13,
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 3,
+        "vowel": 1,
+        "stop": 1,
+        "fricative": 2,
+        "liquid": 2,
+        "nasal": 1,
+        "stress/control marker": 2,
+        "punctuation/boundary": 2
+      }
+    },
+    {
+      "item": "question mark",
+      "original_ms": 896.0,
+      "a5_ms": 752.0,
+      "frames_removed": 9,
+      "dominant_classes": {
+        "boundary/silence": 3,
+        "padding": 2,
+        "stop": 2,
+        "glide": 1,
+        "stress/control marker": 3,
+        "vowel": 2,
+        "fricative": 2,
+        "nasal": 1,
+        "punctuation/boundary": 3,
+        "liquid": 1
+      }
+    },
+    {
+      "item": "unavailable",
+      "original_ms": 880.0,
+      "a5_ms": 720.0,
+      "frames_removed": 10,
+      "dominant_classes": {
+        "boundary/silence": 2,
+        "padding": 4,
+        "vowel": 3,
+        "nasal": 3,
+        "fricative": 2,
+        "stress/control marker": 1,
+        "liquid": 3,
+        "stop": 1
+      }
+    },
+    {
+      "item": "F",
+      "original_ms": 800.0,
+      "a5_ms": 672.0,
+      "frames_removed": 8,
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 4,
+        "stress/control marker": 5,
+        "vowel": 10,
+        "fricative": 8
+      }
+    },
+    {
+      "item": "M",
+      "original_ms": 800.0,
+      "a5_ms": 672.0,
+      "frames_removed": 8,
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 5,
+        "stress/control marker": 6,
+        "vowel": 8,
+        "nasal": 3
+      }
+    },
+    {
+      "item": "expanded",
+      "original_ms": 800.0,
+      "a5_ms": 656.0,
+      "frames_removed": 9,
+      "dominant_classes": {
+        "boundary/silence": 5,
+        "padding": 3,
+        "vowel": 2,
+        "stop": 2,
+        "fricative": 3,
+        "stress/control marker": 2,
+        "nasal": 2,
+        "other speech-bearing": 3
+      }
+    },
+    {
+      "item": "2",
+      "original_ms": 736.0,
+      "a5_ms": 624.0,
+      "frames_removed": 7,
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 4,
+        "stop": 2,
+        "stress/control marker": 2,
+        "vowel": 2
+      }
+    },
+    {
+      "item": "5",
+      "original_ms": 768.0,
+      "a5_ms": 608.0,
+      "frames_removed": 10,
+      "dominant_classes": {
+        "boundary/silence": 4,
+        "padding": 3,
+        "fricative": 5,
+        "stress/control marker": 3,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "9",
+      "original_ms": 704.0,
+      "a5_ms": 592.0,
+      "frames_removed": 7,
+      "dominant_classes": {
+        "boundary/silence": 10,
+        "padding": 4,
+        "nasal": 4,
+        "stress/control marker": 5,
+        "vowel": 3
+      }
+    },
+    {
+      "item": "U",
+      "original_ms": 672.0,
+      "a5_ms": 576.0,
+      "frames_removed": 6,
+      "dominant_classes": {
+        "boundary/silence": 11,
+        "padding": 1,
+        "glide": 3,
+        "stress/control marker": 4,
+        "vowel": 3
+      }
+    }
+  ],
+  "automatic_validation": {
+    "passed": true,
+    "warnings": [],
+    "same_phonemes": true,
+    "same_settings": true,
+    "only_duration_plan_differs": true,
+    "consonants_untouched": true,
+    "renders": 76
+  },
+  "listening": {
+    "items": [
+      "S",
+      "U",
+      "W",
+      "A",
+      "K",
+      "M",
+      "R",
+      "0",
+      "5",
+      "exclamation mark",
+      "comma",
+      "expanded",
+      "unavailable",
+      "button",
+      "heading",
+      "dialog"
+    ],
+    "trials": 16,
+    "wav_count": 32,
+    "blinded": true
+  }
+}
