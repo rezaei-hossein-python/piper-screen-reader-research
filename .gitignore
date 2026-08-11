@@ -25,3 +25,8 @@ listening/
 *.npz
 __pycache__/
 .pytest_cache/
+
+# Phase 2AO training ignores
+*.ckpt
+training/dataset/
+training/results/phase2ao/generated_audio/
