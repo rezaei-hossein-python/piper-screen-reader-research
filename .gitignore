@@ -34,3 +34,8 @@ training/results/phase2ao/generated_audio/
 # Phase 2AP training ignores
 training/results/phase2ap/DO-NOT-OPEN-*
 training/results/phase2ap/blind_listening/
+
+# Phase 2AQ Finalist ignores
+training/results/phase2aq/DO-NOT-OPEN-finalists-key.json
+training/results/phase2aq/finalists/
+training/results/phase2aq/blind_listening/

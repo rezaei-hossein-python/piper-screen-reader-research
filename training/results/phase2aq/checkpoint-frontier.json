@@ -1,0 +1,38 @@
+[
+  {
+    "checkpoint": "Step 100",
+    "normal_preservation_drift": 0,
+    "interactive_char_digit_med": 616.0,
+    "interactive_ui_med": 880.0,
+    "overall_p90": 1046.4,
+    "shorter_pct": 16.981132075471695,
+    "loss": 16.60507658004761
+  },
+  {
+    "checkpoint": "Step 250",
+    "normal_preservation_drift": 0,
+    "interactive_char_digit_med": 368.0,
+    "interactive_ui_med": 624.0,
+    "overall_p90": 806.4,
+    "shorter_pct": 81.13207547169812,
+    "loss": 16.364457880655923
+  },
+  {
+    "checkpoint": "Step 500",
+    "normal_preservation_drift": 0,
+    "interactive_char_digit_med": 368.0,
+    "interactive_ui_med": 608.0,
+    "overall_p90": 764.8,
+    "shorter_pct": 79.24528301886792,
+    "loss": 15.98057968521118
+  },
+  {
+    "checkpoint": "Step 1000",
+    "normal_preservation_drift": 0,
+    "interactive_char_digit_med": 384.0,
+    "interactive_ui_med": 624.0,
+    "overall_p90": 774.4,
+    "shorter_pct": 79.24528301886792,
+    "loss": 15.562025344848633
+  }
+]
