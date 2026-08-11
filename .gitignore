@@ -30,3 +30,7 @@ __pycache__/
 *.ckpt
 training/dataset/
 training/results/phase2ao/generated_audio/
+
+# Phase 2AP training ignores
+training/results/phase2ap/DO-NOT-OPEN-*
+training/results/phase2ap/blind_listening/
