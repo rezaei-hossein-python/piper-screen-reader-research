@@ -165,27 +165,27 @@
   "latency_benchmark": {
     "F": {
       "token": "F",
-      "baseline_median_ms": 88.08685000985861,
-      "warp_median_ms": 1.0771000233944505,
-      "warp_p90_ms": 1.2602700269781055,
-      "warp_p95_ms": 1.3628550135763362,
-      "dec_median_ms": 29.075150028802454
+      "baseline_median_ms": 81.01794999674894,
+      "warp_median_ms": 1.0278499976266176,
+      "warp_p90_ms": 1.1735700187273326,
+      "warp_p95_ms": 1.202734961407259,
+      "dec_median_ms": 28.084299992769957
     },
     "button": {
       "token": "button",
-      "baseline_median_ms": 83.46374999382533,
-      "warp_median_ms": 1.0103499807883054,
-      "warp_p90_ms": 1.1791799566708505,
-      "warp_p95_ms": 1.2382549874018878,
-      "dec_median_ms": 29.486549989087507
+      "baseline_median_ms": 74.83104997663759,
+      "warp_median_ms": 0.9129999962169677,
+      "warp_p90_ms": 1.0877300053834917,
+      "warp_p95_ms": 1.206449989695102,
+      "dec_median_ms": 27.16079997480847
     },
     "The selected button is unavailable.": {
       "token": "The selected button is unavailable.",
-      "baseline_median_ms": 188.60454999958165,
-      "warp_median_ms": 3.023150027729571,
-      "warp_p90_ms": 3.538300038781017,
-      "warp_p95_ms": 3.6385349987540394,
-      "dec_median_ms": 92.03149998211302
+      "baseline_median_ms": 170.9168499801308,
+      "warp_median_ms": 2.8151500155217946,
+      "warp_p90_ms": 3.375290025724098,
+      "warp_p95_ms": 3.6771099956240505,
+      "dec_median_ms": 86.82414999930188
     }
   },
   "item_metrics": [

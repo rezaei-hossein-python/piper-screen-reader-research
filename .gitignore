@@ -42,3 +42,8 @@ training/results/phase2aq/blind_listening/
 training/results/phase2as/listening_set/
 training/results/phase2as/blind_listening/
 training/results/phase2as/DO-NOT-OPEN-*
+
+# Phase 2AT ignores
+training/results/phase2at/listening_set/
+training/results/phase2at/blind_listening/
+training/results/phase2at/DO-NOT-OPEN-*
