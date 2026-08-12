@@ -39,3 +39,6 @@ training/results/phase2ap/blind_listening/
 training/results/phase2aq/DO-NOT-OPEN-finalists-key.json
 training/results/phase2aq/finalists/
 training/results/phase2aq/blind_listening/
+training/results/phase2as/listening_set/
+training/results/phase2as/blind_listening/
+training/results/phase2as/DO-NOT-OPEN-*
