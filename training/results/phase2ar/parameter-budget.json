@@ -1,0 +1,40 @@
+{
+  "trainable_parameters": {
+    "model_g.emb_mode.weight[1]": {
+      "shape": [256],
+      "count": 256,
+      "description": "Interactive mode embedding vector for conditioning the duration predictor and decoder"
+    },
+    "model_g.dp.cond.weight": {
+      "shape": [192, 256, 1],
+      "count": 49152,
+      "description": "Projection layer for mode-conditioning within the Stochastic Duration Predictor (SDP)"
+    },
+    "model_g.dec.cond.weight": {
+      "shape": [256, 256, 1],
+      "count": 65536,
+      "description": "Projection weight layer for mode-conditioning inside the Generator decoder (acoustic adapter)"
+    }
+  },
+  "frozen_parameters": {
+    "model_g.emb_mode.weight[0]": {
+      "count": 256,
+      "status": "Zero-locked mathematically during training and inference"
+    },
+    "model_g.dec.cond.bias": {
+      "count": 256,
+      "status": "Frozen at exactly 0.0 to guarantee strict normal-mode isolation"
+    },
+    "base_acoustic_and_decoder_parameters": {
+      "count": 73581484,
+      "status": "Fully frozen to preserve Lessac voice identity, reading quality, and vocoder stability"
+    }
+  },
+  "summary": {
+    "total_trainable": 115200,
+    "total_frozen": 73581484,
+    "trainable_percentage": 0.156,
+    "budget_limit": 500000,
+    "budget_passed": true
+  }
+}

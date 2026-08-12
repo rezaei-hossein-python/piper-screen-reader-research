@@ -1,0 +1,42 @@
+[
+  {
+    "milestone": "Step 0 (Baseline)",
+    "duration_loss": 0.0,
+    "mel_loss": 0.0,
+    "grad_emb_norm": 0.0,
+    "grad_dec_norm": 0.0,
+    "normal_avg_dur_ms": 590.0,
+    "normal_drift_ms": 0.0,
+    "status": "Initialized from locked Lessac Low"
+  },
+  {
+    "milestone": "Step 50",
+    "duration_loss": 14.4672,
+    "mel_loss": 36.2446,
+    "grad_emb_norm": 1.9184,
+    "grad_dec_norm": 0.5499,
+    "normal_avg_dur_ms": 600.0,
+    "normal_drift_ms": 0.0,
+    "status": "Gradients active. Initial Mel alignment shift."
+  },
+  {
+    "milestone": "Step 100",
+    "duration_loss": 13.301,
+    "mel_loss": 34.3007,
+    "grad_emb_norm": 5.4968,
+    "grad_dec_norm": 1.1038,
+    "normal_avg_dur_ms": 596.0,
+    "normal_drift_ms": 0.0,
+    "status": "Losses descending. Safe, stable gradients."
+  },
+  {
+    "milestone": "Step 250",
+    "duration_loss": 13.3839,
+    "mel_loss": 31.0981,
+    "grad_emb_norm": 0.9026,
+    "grad_dec_norm": 0.2625,
+    "normal_avg_dur_ms": 582.0,
+    "normal_drift_ms": 0.0,
+    "status": "BEST CHECKPOINT. Max Mel alignment convergence; perfect zero-drift."
+  }
+]
