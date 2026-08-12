@@ -1,0 +1,22 @@
+{
+  "piper_training_source": {
+    "repository": "https://github.com/OHF-Voice/piper1-gpl",
+    "tag": "v1.5.0",
+    "commit": "e2a4b1fa1c502bbb97e729a5b34a6af565007843",
+    "license": "GPL-3.0-or-later"
+  },
+  "lessac_low_checkpoint": {
+    "repository": "https://huggingface.co/datasets/rhasspy/piper-checkpoints",
+    "path": "en/en_US/lessac/low/epoch=2307-step=558536.ckpt",
+    "sha256": "not_downloaded_in_phase_2an",
+    "bytes": 846000000,
+    "license": "MIT (dataset repo); voice MODEL_CARD cites Blizzard 2013 research license",
+    "note": "Reference identity only; checkpoint not copied to this repository"
+  },
+  "lessac_onnx_production_reference": {
+    "repository": "https://huggingface.co/rhasspy/piper-voices",
+    "path": "en/en_US/lessac/low/en_US-lessac-low.onnx",
+    "sha256": "f7d01dde371555732c4c314111ac79672b1a5ce2fc19266ab42178fd8df7f375",
+    "role": "Phase 2H baseline; not redistributed from this repo"
+  }
+}
