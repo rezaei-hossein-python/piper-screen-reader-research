@@ -1,0 +1,1566 @@
+[
+  {
+    "item_id": "P2AT_001",
+    "text": "A",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_002",
+    "text": "B",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_003",
+    "text": "C",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_004",
+    "text": "D",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_005",
+    "text": "E",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_006",
+    "text": "F",
+    "category": "LETTERS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "letter",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_007",
+    "text": "G",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_008",
+    "text": "H",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "aspirate"
+    ]
+  },
+  {
+    "item_id": "P2AT_009",
+    "text": "I",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_010",
+    "text": "J",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "affricate"
+    ]
+  },
+  {
+    "item_id": "P2AT_011",
+    "text": "K",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_012",
+    "text": "L",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_013",
+    "text": "M",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_014",
+    "text": "N",
+    "category": "LETTERS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "letter",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_015",
+    "text": "O",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_016",
+    "text": "P",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_017",
+    "text": "Q",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_018",
+    "text": "R",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_019",
+    "text": "S",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_020",
+    "text": "T",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_021",
+    "text": "U",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_022",
+    "text": "V",
+    "category": "LETTERS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "letter",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_023",
+    "text": "W",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "glide"
+    ]
+  },
+  {
+    "item_id": "P2AT_024",
+    "text": "X",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_025",
+    "text": "Y",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "glide"
+    ]
+  },
+  {
+    "item_id": "P2AT_026",
+    "text": "Z",
+    "category": "LETTERS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "letter",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_027",
+    "text": "0",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_028",
+    "text": "1",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_029",
+    "text": "2",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_030",
+    "text": "3",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_031",
+    "text": "4",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_032",
+    "text": "5",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "diphthong"
+    ]
+  },
+  {
+    "item_id": "P2AT_033",
+    "text": "6",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_034",
+    "text": "7",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_035",
+    "text": "8",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "diphthong"
+    ]
+  },
+  {
+    "item_id": "P2AT_036",
+    "text": "9",
+    "category": "DIGITS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "digit",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_037",
+    "text": "comma",
+    "category": "PUNCTUATION",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_038",
+    "text": "period",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "high-vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_039",
+    "text": "question mark",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_040",
+    "text": "exclamation mark",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_041",
+    "text": "colon",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_042",
+    "text": "semicolon",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_043",
+    "text": "dash",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_044",
+    "text": "hyphen",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "glottal",
+      "labial"
+    ]
+  },
+  {
+    "item_id": "P2AT_045",
+    "text": "apostrophe",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_046",
+    "text": "quote",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_047",
+    "text": "slash",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_048",
+    "text": "backslash",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "bilabial",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_049",
+    "text": "at",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_050",
+    "text": "number",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "labial"
+    ]
+  },
+  {
+    "item_id": "P2AT_051",
+    "text": "percent",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_052",
+    "text": "ampersand",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "nasal",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_053",
+    "text": "plus",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_054",
+    "text": "equals",
+    "category": "PUNCTUATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_055",
+    "text": "button",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "bilabial",
+      "alveolar",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_056",
+    "text": "link",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "lateral",
+      "velar",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_057",
+    "text": "list",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "lateral",
+      "sibilant",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_058",
+    "text": "list item",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "lateral",
+      "sibilant",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_059",
+    "text": "heading",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "glottal",
+      "nasal",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_060",
+    "text": "checkbox",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "affricate",
+      "velar",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_061",
+    "text": "checked",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "affricate",
+      "velar",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_062",
+    "text": "unchecked",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "affricate",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_063",
+    "text": "selected",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "lateral",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_064",
+    "text": "not selected",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "lateral",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_065",
+    "text": "expanded",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "plosive",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_066",
+    "text": "collapsed",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "lateral",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_067",
+    "text": "unavailable",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "nasal",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_068",
+    "text": "edit",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "alveolar",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_069",
+    "text": "editable",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "alveolar",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_070",
+    "text": "menu",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_071",
+    "text": "menu item",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "vowel",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_072",
+    "text": "dialog",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "velar",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_073",
+    "text": "tab",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "bilabial"
+    ]
+  },
+  {
+    "item_id": "P2AT_074",
+    "text": "table",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "bilabial",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_075",
+    "text": "row",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "liquid",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_076",
+    "text": "column",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "lateral",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_077",
+    "text": "tree view",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "fricative",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_078",
+    "text": "progress bar",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "liquid",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_079",
+    "text": "slider",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "lateral",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_080",
+    "text": "radio button",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "liquid",
+      "alveolar",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_081",
+    "text": "visited",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "fricative",
+      "alveolar",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_082",
+    "text": "blank",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "bilabial",
+      "lateral",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_083",
+    "text": "space",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "bilabial",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_084",
+    "text": "capital",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "bilabial",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_085",
+    "text": "level one",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "lateral",
+      "labial",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_086",
+    "text": "level two",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "lateral",
+      "labial",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_087",
+    "text": "pressed",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "liquid",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_088",
+    "text": "not pressed",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "liquid",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_089",
+    "text": "frame",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "fricative",
+      "liquid",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_090",
+    "text": "status bar",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "alveolar",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_091",
+    "text": "toolbar",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "alveolar",
+      "liquid",
+      "bilabial"
+    ]
+  },
+  {
+    "item_id": "P2AT_092",
+    "text": "window",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "glide",
+      "nasal",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_093",
+    "text": "alert",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel",
+      "liquid",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_094",
+    "text": "notification",
+    "category": "UI_NAVIGATION",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "fricative",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_095",
+    "text": "pop",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "aspirated"
+    ]
+  },
+  {
+    "item_id": "P2AT_096",
+    "text": "dog",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "voiced"
+    ]
+  },
+  {
+    "item_id": "P2AT_097",
+    "text": "cat",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "plosive",
+      "voiceless"
+    ]
+  },
+  {
+    "item_id": "P2AT_098",
+    "text": "noon",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "nasal",
+      "continuous"
+    ]
+  },
+  {
+    "item_id": "P2AT_099",
+    "text": "sing",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "velar",
+      "nasal",
+      "continuous"
+    ]
+  },
+  {
+    "item_id": "P2AT_100",
+    "text": "shush",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "fricative",
+      "voiceless"
+    ]
+  },
+  {
+    "item_id": "P2AT_101",
+    "text": "laugh",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "fricative",
+      "labiodental"
+    ]
+  },
+  {
+    "item_id": "P2AT_102",
+    "text": "thin",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "fricative",
+      "interdental"
+    ]
+  },
+  {
+    "item_id": "P2AT_103",
+    "text": "zip",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "voiced"
+    ]
+  },
+  {
+    "item_id": "P2AT_104",
+    "text": "fizz",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sibilant",
+      "continuous"
+    ]
+  },
+  {
+    "item_id": "P2AT_105",
+    "text": "roll",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "liquid",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_106",
+    "text": "lily",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "liquid",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_107",
+    "text": "yawn",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "approximant",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_108",
+    "text": "wet",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "approximant",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_109",
+    "text": "area",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel-heavy"
+    ]
+  },
+  {
+    "item_id": "P2AT_110",
+    "text": "idea",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "vowel-heavy"
+    ]
+  },
+  {
+    "item_id": "P2AT_111",
+    "text": "blast",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "initial-consonant cluster"
+    ]
+  },
+  {
+    "item_id": "P2AT_112",
+    "text": "split",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "initial-consonant cluster"
+    ]
+  },
+  {
+    "item_id": "P2AT_113",
+    "text": "grasp",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "final-consonant cluster"
+    ]
+  },
+  {
+    "item_id": "P2AT_114",
+    "text": "F",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_115",
+    "text": "N",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_116",
+    "text": "m",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_117",
+    "text": "b",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_118",
+    "text": "V",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_119",
+    "text": "list",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "cluster"
+    ]
+  },
+  {
+    "item_id": "P2AT_120",
+    "text": "link",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_121",
+    "text": "comma",
+    "category": "SHORT_WORDS",
+    "historical_problem_item": true,
+    "phonetic_coverage_tags": [
+      "historical_problem",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_122",
+    "text": "Save button",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "sibilant",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_123",
+    "text": "Search edit",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "sibilant",
+      "plosive"
+    ]
+  },
+  {
+    "item_id": "P2AT_124",
+    "text": "Heading level two",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "nasal",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_125",
+    "text": "Link visited",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "lateral",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_126",
+    "text": "Checkbox checked",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "affricate",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_127",
+    "text": "Menu collapsed",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "nasal",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_128",
+    "text": "Dialog unavailable",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "alveolar",
+      "lateral"
+    ]
+  },
+  {
+    "item_id": "P2AT_129",
+    "text": "List with five items",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "lateral",
+      "labial"
+    ]
+  },
+  {
+    "item_id": "P2AT_130",
+    "text": "Row three column two",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "liquid",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_131",
+    "text": "Selected tab",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "sibilant",
+      "alveolar"
+    ]
+  },
+  {
+    "item_id": "P2AT_132",
+    "text": "Download complete",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "alveolar",
+      "velar"
+    ]
+  },
+  {
+    "item_id": "P2AT_133",
+    "text": "Tree view expanded",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "alveolar",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_134",
+    "text": "Radio button checked",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "liquid",
+      "affricate"
+    ]
+  },
+  {
+    "item_id": "P2AT_135",
+    "text": "Editable text",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "vowel",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_136",
+    "text": "Table with four rows",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "labial",
+      "liquid"
+    ]
+  },
+  {
+    "item_id": "P2AT_137",
+    "text": "Capital A",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "velar",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_138",
+    "text": "Window focused",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "glide",
+      "fricative"
+    ]
+  },
+  {
+    "item_id": "P2AT_139",
+    "text": "Progress bar fifty percent",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "liquid",
+      "sibilant"
+    ]
+  },
+  {
+    "item_id": "P2AT_140",
+    "text": "Toolbar expanded",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "liquid",
+      "vowel"
+    ]
+  },
+  {
+    "item_id": "P2AT_141",
+    "text": "Alert notification",
+    "category": "PHRASES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "UI phrase",
+      "liquid",
+      "nasal"
+    ]
+  },
+  {
+    "item_id": "P2AT_142",
+    "text": "The selected button is unavailable.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "UI notification"
+    ]
+  },
+  {
+    "item_id": "P2AT_143",
+    "text": "Your changes have been saved.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "status notification"
+    ]
+  },
+  {
+    "item_id": "P2AT_144",
+    "text": "Are you sure you want to exit?",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "question dialog"
+    ]
+  },
+  {
+    "item_id": "P2AT_145",
+    "text": "An error occurred while loading the page.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "error alert"
+    ]
+  },
+  {
+    "item_id": "P2AT_146",
+    "text": "The download has completed successfully.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "status alert"
+    ]
+  },
+  {
+    "item_id": "P2AT_147",
+    "text": "Please select an option from the menu.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "instructions"
+    ]
+  },
+  {
+    "item_id": "P2AT_148",
+    "text": "The document has been updated.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "confirmation"
+    ]
+  },
+  {
+    "item_id": "P2AT_149",
+    "text": "A new notification is available.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "status alert"
+    ]
+  },
+  {
+    "item_id": "P2AT_150",
+    "text": "Press tab to navigate to the next field.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "instructions"
+    ]
+  },
+  {
+    "item_id": "P2AT_151",
+    "text": "The application is starting up.",
+    "category": "SENTENCES",
+    "historical_problem_item": false,
+    "phonetic_coverage_tags": [
+      "sentence control",
+      "status alert"
+    ]
+  }
+]
